@@ -1,0 +1,8 @@
+[[ReadabilityCore]]
+arch = "x86_64"
+git-tree-sha1 = "85207b439f5e65c35fbbaa3f47dcb1a9a7d26483"
+os = "windows"
+
+    [[ReadabilityCore.download]]
+    sha256 = "7228f4f7c39ea3561363c7a4629e947d9bce958d68ce67075882293193d0b033"
+    url = "https://github.com/JamieMair/ReadabilityCore_jll.jl/releases/download/ReadabilityCore-v0.1.0+0/ReadabilityCore.v0.1.0.x86_64-w64-mingw32.tar.gz"
